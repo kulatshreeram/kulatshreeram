@@ -1,6 +1,5 @@
-# 💫 About Me:
-Currently learning and working on 3d Frontend<br>machine learning <br>mostly using javascript ,python,css,html,php<br>organization @ team orca<br>pune
-
+# About Me:
+Fixing bugs and making bad decisions. Mostly fixing bugs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreeram-kulat)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulatshreeram@gmail.com) 
