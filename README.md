@@ -1,16 +1,23 @@
-## Hi there 👋
+💫 About Me:
+Currently learning and working on 3d Frontend
+mostly using javascript ,python,css,html
+organization orca
+pune
 
-<!--
-**kulatshreeram/kulatshreeram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[LinkedIn](https://linkedin.com/in/Shreeram Kulat) [Medium](https://medium.com/@Shreeram Kulat) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C CSS3 HTML5 JavaScript Java Python PHP AWS Oracle Google Cloud Anaconda Chart.js Three js Streamlit TailwindCSS Supabase MySQL Matplotlib NumPy Pandas Plotly scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🔝 Top Contributed Repo
+
+
+
