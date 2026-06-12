@@ -2,7 +2,7 @@
 Fixing bugs and making bad decisions. Mostly fixing bugs.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreeram-kulat)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulatshreeram@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shreeklaptop) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreeram-kulat)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulatshreeram@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shreeramkulat) 
 
 
 # 💻 Tech Stack:
