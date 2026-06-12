@@ -2,12 +2,7 @@
 Fixing bugs and making bad decisions. Mostly fixing bugs.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreeram-kulat)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulatshreeram@gmail.com) <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/https://medium.com/@shreeklaptop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@shreeklaptop" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shreeram-kulat)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulatshreeram@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@shreeklaptop) 
 
 
 # 💻 Tech Stack:
